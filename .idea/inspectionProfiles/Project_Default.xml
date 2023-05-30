@@ -1,0 +1,25 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.json" />
+          <option value="list.*" />
+          <option value="main.base_tree" />
+          <option value="main.answer" />
+          <option value="Filters" />
+          <option value="minecraft.y" />
+          <option value="lesson.bot.oxfordLookup" />
+          <option value="transliterate.to_cyrillic" />
+          <option value="transliterate.to_latin" />
+          <option value="main.tranlator" />
+          <option value="main.translator" />
+          <option value="transformers.GPT3Tokenizer" />
+          <option value="transformers.GPT3LMHeadModel" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="Stylelint" enabled="true" level="ERROR" enabled_by_default="true" />
+  </profile>
+</component>
